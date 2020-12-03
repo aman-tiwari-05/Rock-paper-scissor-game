@@ -63,6 +63,7 @@ else:
             
             Thanks for playing"""
           )
+    input('Press ENTER to exit')
 
 
 
