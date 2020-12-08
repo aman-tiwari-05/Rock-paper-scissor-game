@@ -17,7 +17,7 @@ command = input()
 if command == "quit":
     print("thanks for playing")
 else:
-    print("game has been started enter your move !!   Type quit whenever you want to end the game ")
+    print("game has been started enter your move !!   Type 'quit' to end the game ")
 
 
     computer_moves = ["s",  "p", "r"]
